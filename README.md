@@ -1,6 +1,6 @@
 # Lab-Exercise-3
 name:hassini k, reg no: 212225040122
-Of coursee 😭 Here’s a konjum long, but still simple and natural enough for a college assignment. You can copy-paste this directly.
+
 
 1. Explore the Fundamentals of UI and UX
 Introduction
